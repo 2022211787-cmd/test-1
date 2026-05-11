@@ -1,3 +1,7 @@
+<img width="200" height="200" alt="다운로드" src="https://github.com/user-attachments/assets/8937f2ba-0478-49ad-82d5-fef9e2b4cd6c" />
+
+
+
 # README 파일이란?
 
 이곳은 *저장소에 대한 설명*을 작성합니다.
